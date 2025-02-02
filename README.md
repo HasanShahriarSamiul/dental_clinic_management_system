@@ -1,2 +1,2 @@
-# Dental_Clinic_Management_System
-This is a Java based dental clinic management system was made by the students of AIUB.
+# Tooth Care-Dental Clinic Management System
+Tooth Care is a simple and efficient Dental Clinic Management System designed to streamline clinic operations. Admins can add, update, search, and remove patient records while managing doctor registrations and profiles. Doctors can register, log in, access their dashboard, check patient details, view treatment history, and track appointments. This system reduces paperwork, minimizes errors, saves time, and ensures smooth communication between doctors and patients, leading to better care and improved clinic efficiency. With Tooth Care, dental clinics can operate more effectively and provide a seamless experience for both doctors and patients.
