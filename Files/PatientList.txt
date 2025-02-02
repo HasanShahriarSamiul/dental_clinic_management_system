@@ -1,0 +1,55 @@
+PID10010
+Sohan
+01304117094
+Male
+22
+Basundhara
+Dr. Samiul
+D-204
+Lower Tooth Pain
+1000
+
+PID10011
+Likhon
+01987749264
+Male
+22
+Kuril
+Dr. Samiul
+D-203
+Upper 7 number Tooth Pain
+500
+
+PID10012
+Asif
+0179864695
+Male
+20
+Kuril
+Dr. Arnab
+D-205
+Lower 3 tooth Pain
+400
+
+PID10016
+Pinky
+01835486522
+Female
+11
+N Bazar
+Dr. Anurag
+D-202
+Upper C Pain
+700
+
+PID100111
+Kaniz Fatema
+0145782369
+Female
+12
+Banani
+Dr. Samiul
+Xray-102 
+Upper B pain
+1000
+
